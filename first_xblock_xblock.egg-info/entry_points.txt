@@ -1,0 +1,2 @@
+[xblock.v1]
+first_xblock = first_xblock:FirstXBlock
